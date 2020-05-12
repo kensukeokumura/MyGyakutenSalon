@@ -9,7 +9,7 @@
 </head>
 <body>
     <header class="navbar navbar-dark bg-danger">
-        <div class="countainer">
+        <div class="container">
             <a class="navbar-brand" href="{{ url('')}}">
                 Gyakuten
             </a>
