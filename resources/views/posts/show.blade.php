@@ -4,7 +4,7 @@
 
   <div class="container mt-4">
     
-        <div class="card mt-4">
+    <div class="card mt-4">
             <div class="card-header mb-2">
                 {{$post->title}}
             </div>
